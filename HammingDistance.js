@@ -10,7 +10,7 @@ function HammingDistance(strArr) {
       }
   }
   // code goes here  
-  return count;
+  return count;                                    
          
 }
    
